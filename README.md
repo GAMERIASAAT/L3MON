@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img src="https://github.com/GAMERIASAAT/L3MON/server/assets/webpublic/logo.png" height="60"><br>
+<img src="server/assets/webpublic/logo.png" height="60"><br>
 A cloud based remote android managment suite, powered by NodeJS
 </p>
 
